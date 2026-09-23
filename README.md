@@ -44,12 +44,12 @@ A deployed data-processing and reporting application that imports CSV/XLSX files
 
 **🌐 [Live Demo](https://automated-reporting-platform.onrender.com/)** · **📖 [API Docs](https://automated-reporting-platform.onrender.com/docs)** · **Status: Live**
 
-### 🔌 API Integration Service
-**Python · FastAPI · PostgreSQL · Docker**
+### 🔌 [API Integration Service](https://github.com/Veropa123/api-integration-service)
+**Python · FastAPI · HTTPX · SQLAlchemy · Docker**
 
-A backend service for consuming external APIs, validating data, storing structured information, and exposing documented REST endpoints.
+A deployed backend service that consumes a third-party REST API, validates and normalizes external data, synchronizes records through SQLAlchemy, and exposes documented REST endpoints.
 
-**Status:** Planned
+**🌐 [Live Demo](https://api-integration-service.onrender.com/)** · **📖 [API Docs](https://api-integration-service.onrender.com/docs)** · **Status: Live**
 
 ### 🏢 Business Management Platform
 **Node.js · JavaScript · PostgreSQL · REST API**
