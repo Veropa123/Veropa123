@@ -51,19 +51,19 @@ A deployed backend service that consumes a third-party REST API, validates and n
 
 **🌐 [Live Demo](https://api-integration-service.onrender.com/)** · **📖 [API Docs](https://api-integration-service.onrender.com/docs)** · **Status: Live**
 
-### 🏢 Business Management Platform
-**Node.js · JavaScript · PostgreSQL · REST API**
+### 🏢 [Business Management Platform](https://github.com/Veropa123/business-management-platform)
+**Node.js · Express · PostgreSQL · JWT**
 
-A business application for managing customers, service requests, work orders, responsible users, status tracking, and reporting.
+A business application for managing customers, work orders, priorities, assignments, operational KPIs and structured REST workflows.
 
-**Status:** Planned
+**Status: Live deployment available**
 
-### 🌐 IoT Monitoring Dashboard
-**ESP32 · MQTT · Node.js · PostgreSQL**
+### 🌐 [IoT Monitoring Dashboard](https://github.com/Veropa123/iot-monitoring-dashboard)
+**Node.js · MQTT · WebSockets · PostgreSQL**
 
-A real-time monitoring solution for collecting device data, processing telemetry, storing historical information, and displaying operational metrics in a web dashboard.
+A real-time IoT monitoring solution for device telemetry, machine status, alerts, historical data and live operational dashboards.
 
-**Status:** Planned
+**Status: Functional first version — ready for deployment**
 
 ---
 
