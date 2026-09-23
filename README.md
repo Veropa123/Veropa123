@@ -37,12 +37,12 @@ I enjoy turning real operational needs into clear, maintainable, and useful soft
 
 ## 🚀 Portfolio Projects
 
-### 📊 Automated Reporting Platform
-**Python · Pandas · FastAPI · SQL**
+### 📊 [Automated Reporting Platform](https://github.com/Veropa123/automated-reporting-platform)
+**Python · Pandas · FastAPI · JavaScript · Docker**
 
-A data-processing and reporting application designed to import business data, validate and clean datasets, calculate KPIs, create visualizations, and generate structured reports.
+A deployed data-processing and reporting application that imports CSV/XLSX files, validates datasets, calculates KPIs, visualizes results, and generates Excel reports.
 
-**Status:** In development
+**🌐 [Live Demo](https://automated-reporting-platform.onrender.com/)** · **📖 [API Docs](https://automated-reporting-platform.onrender.com/docs)** · **Status: Live**
 
 ### 🔌 API Integration Service
 **Python · FastAPI · PostgreSQL · Docker**
@@ -79,6 +79,7 @@ I'm currently building a portfolio of complete, documented projects that demonst
 - IoT systems
 - Testing and documentation
 - Docker-based development environments
+- Cloud deployment
 
 ---
 
