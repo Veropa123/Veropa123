@@ -56,14 +56,14 @@ A deployed backend service that consumes a third-party REST API, validates and n
 
 A business application for managing customers, work orders, priorities, assignments, operational KPIs and structured REST workflows.
 
-**Status: Live deployment available**
+**🌐 [Live Demo](https://business-management-platform-kqbk.onrender.com/)** · **📖 [API Docs](https://business-management-platform-kqbk.onrender.com/docs)** · **Status: Live**
 
 ### 🌐 [IoT Monitoring Dashboard](https://github.com/Veropa123/iot-monitoring-dashboard)
 **Node.js · MQTT · WebSockets · PostgreSQL**
 
 A real-time IoT monitoring solution for device telemetry, machine status, alerts, historical data and live operational dashboards.
 
-**Status: Functional first version — ready for deployment**
+**🌐 [Live Demo](https://iot-monitoring-dashboard-1a8q.onrender.com/)** · **📖 [API Docs](https://iot-monitoring-dashboard-1a8q.onrender.com/docs)** · **Status: Live**
 
 ---
 
